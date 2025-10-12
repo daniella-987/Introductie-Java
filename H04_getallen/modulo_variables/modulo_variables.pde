@@ -1,0 +1,12 @@
+int som = 15;
+som = som % 2;
+println (som);
+int som1 = 31;
+som1 = som1 % 3;
+println (som1);
+int som2 = 10;
+som2 = som2 % 5;
+println (som2);
+int som3 = 38;
+som3 = som3 % 4;
+println (som3);
